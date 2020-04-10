@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TryMeApp</string>
+    <string name="try_me_button">Try Me!</string>
+</resources>
